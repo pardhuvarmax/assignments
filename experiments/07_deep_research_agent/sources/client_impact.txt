@@ -1,0 +1,33 @@
+Internal Memo: Client Services Perspective on the Four-Day Pilot
+
+Client Services was not part of the pilot but supports the Engineering
+teams that were, and raised the following concerns and observations during
+the pilot debrief.
+
+Coverage: three enterprise clients had support tickets that were opened
+Thursday evening and not addressed by an engineer until the following
+Monday, compared to a same-day-or-next-day response under the normal
+five-day schedule. Two of these were flagged by the client as a
+noticeable slowdown; account managers had to intervene with a status
+update to keep clients satisfied. Client Services proposed that any wider
+rollout stagger the day off across teams so at least partial engineering
+coverage exists five days a week, rather than the whole department being
+off the same day.
+
+Sales impact: the sales team reported no client ever raised the pilot
+publicly as a concern, and one prospective client reacted positively when
+told about it during a hiring-culture conversation, though this is
+anecdotal and Sales did not track it systematically.
+
+Contract terms: two enterprise contracts include a "next business day"
+response-time SLA that was technically at risk during the pilot, though
+no formal SLA breach was recorded because the department temporarily
+authorized on-call rotation to cover urgent Friday tickets. Client
+Services recommends that any permanent policy explicitly fund and staff
+a small Friday on-call rotation rather than relying on informal
+volunteer coverage, which is what happened during the pilot.
+
+Overall, Client Services's position is that the model is workable but
+NOT free -- it has a real, quantifiable coverage cost that needs a
+deliberate staffing answer, not just goodwill from engineers picking up
+Friday tickets voluntarily.

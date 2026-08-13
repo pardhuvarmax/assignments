@@ -1,0 +1,33 @@
+Internal Memo: Q1 Four-Day Week Pilot -- Engineering Department Results
+
+Acme Robotics ran a 12-week pilot of a four-day, 32-hour work week (Monday
+through Thursday, full pay) in the Engineering department, covering 45
+engineers across three teams. The pilot compared the 12 weeks against the
+prior 12-week baseline on the same teams.
+
+Output metrics: story points completed per sprint were roughly flat,
+down about 3% on average across the three teams, but within the normal
+sprint-to-sprint variance seen in the two quarters before the pilot. One
+team (Platform) saw a 6% increase, which the team lead attributed to
+fewer context-switching interruptions since meetings were compressed into
+four days. Code review turnaround time improved slightly, from a median of
+14 hours to 11 hours, which engineering leadership believes is because
+engineers had less unscheduled time to let reviews sit.
+
+Sick-day usage dropped by about 18% compared to the same 12 weeks the
+prior year. Voluntary attrition in the pilot teams was zero during the
+pilot window, compared to 2 departures in the same period the year before,
+though the sample is too small to draw a strong conclusion from that alone.
+
+Meeting load: the teams self-reported cutting recurring meetings by
+roughly 25%, mostly by canceling weekly status meetings in favor of an
+async written update, and by consolidating two standing planning meetings
+into one.
+
+Open concerns from the pilot: two engineers reported feeling pressure to
+"cram" a five-day workload into four days rather than actually reducing
+scope, and said they worked longer hours on the four days to compensate.
+Engineering leadership flagged this as a management-practice issue to
+address before any wider rollout, not a fundamental flaw in the four-day
+model itself -- teams that proactively cut lower-priority work saw better
+results than teams that just compressed their existing five-day plan.

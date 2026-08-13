@@ -1,0 +1,34 @@
+Internal Memo: General Notes on Four-Day Week Adoption Patterns
+
+Compiled by Strategy & Ops from public reporting and conference talks on
+four-day work week adoption, for internal reference (not a formal
+literature review).
+
+Two broad models are used elsewhere: (1) full pay for reduced hours, which
+is what Acme's pilot used, framed as a productivity/efficiency bet rather
+than a cost-cutting move; and (2) a compressed schedule where the same
+total hours are worked over four longer days, which preserves output
+capacity but delivers less of the wellbeing benefit reported in Acme's
+survey data.
+
+Commonly reported failure mode: organizations that adopt the four-day
+model without also cutting meeting load or deprioritizing lower-value work
+tend to see the "cramming" effect Acme's pilot also flagged -- employees
+compress five days of work and stress into four, eroding the wellbeing
+benefit within a few months. The organizations that report durable success
+generally pair the schedule change with an explicit push to cut recurring
+meetings and eliminate low-value work, not just announce a shorter week
+and expect the savings to appear on their own.
+
+Commonly reported success factor: client- or customer-facing functions
+that adopted a staggered day off (different teams off different days)
+report fewer coverage complaints than those that took the whole
+organization offline on the same day, consistent with what Client Services
+observed in Acme's own pilot.
+
+Industries with the most public four-day week adoption tend to be
+knowledge-work and professional services firms with limited
+time-of-day-dependent operations (e.g. not manufacturing shift work or
+retail). Acme's mix of engineering plus client support with contractual
+response-time commitments places it closer to the more complex end of the
+adoption spectrum, not the easiest case.

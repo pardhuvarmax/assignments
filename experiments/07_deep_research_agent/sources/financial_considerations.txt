@@ -1,0 +1,33 @@
+Internal Memo: Finance Review of the Four-Day Week Proposal
+
+Finance modeled three scenarios for extending the four-day, full-pay
+model company-wide (currently ~310 employees).
+
+Direct payroll cost: since the pilot kept full pay for reduced hours,
+there is no direct payroll savings, and Finance's base case assumes no
+headcount reduction, so payroll cost is roughly flat. Finance flagged a
+risk that if the four-day week requires backfilling coverage (e.g. the
+Friday on-call rotation Client Services requested), that adds an
+estimated $180K-$260K/year in on-call premiums and overtime across the
+company if rolled out broadly, based on current on-call pay rates.
+
+Recruiting and retention: Finance's model treats reduced attrition as the
+main financial upside, since replacing a mid-level engineer costs an
+estimated 6-9 months of that role's fully loaded salary in recruiting,
+onboarding, and lost productivity. Even a modest reduction in voluntary
+attrition (the pilot saw zero departures in-window, though Finance
+considers the sample too small to rely on) could offset a meaningful share
+of the on-call staffing cost above.
+
+Office and facilities: a company-wide four-day week with a staggered day
+off (as Client Services proposed) would not reduce facilities costs, since
+the office would still be in use five days a week. A company-wide single
+day off (e.g. all of Engineering off Fridays) could allow reduced Friday
+facilities costs (cleaning, front desk staffing), estimated at a modest
+$15K-$25K/year in savings -- small relative to the on-call cost above.
+
+Finance's overall position: the proposal is not cost-neutral once realistic
+coverage staffing is included, and the financial case depends heavily on
+whether the retention and productivity gains seen in the small pilot hold
+up at full-company scale, which Finance considers the single biggest
+unresolved question before a company-wide commitment.

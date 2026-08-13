@@ -23,3 +23,9 @@ env/
 # Project output files
 calc_result.txt
 user_note.txt
+
+# Generated experiment artifacts (databases, embedding/index caches, mock outboxes)
+experiments/**/*.db
+experiments/**/*_index.json
+experiments/**/*.sqlite3
+experiments/**/outbox/

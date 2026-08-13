@@ -1,0 +1,31 @@
+Internal Memo: Pilot Participant Survey Summary (HR)
+
+At the end of the 12-week pilot, HR surveyed all 45 participating
+engineers (38 responses, 84% response rate) plus a comparison group of 20
+non-participating employees in other departments.
+
+Satisfaction: 91% of pilot participants said they wanted to continue the
+four-day schedule permanently. Self-reported burnout scores (on HR's
+standard 1-5 scale, where 5 is most burned out) dropped from an average of
+3.4 pre-pilot to 2.6 post-pilot. Reported energy/focus during working
+hours was rated higher by 76% of respondents.
+
+Concerns raised in free-text responses: the most common complaint (cited
+by 14 of 38 respondents) was difficulty coordinating with teams and
+external partners who were still on a five-day schedule, particularly
+around Friday deadlines and client calls that got harder to schedule.
+Nine respondents mentioned feeling they had to "front-load" work early in
+the week, causing a more stressful Monday-Tuesday. A smaller group (5
+respondents) said their manager still expected the same five-day output
+and they didn't feel the workload had actually been reduced.
+
+The non-participant comparison group showed no significant change in
+burnout scores over the same period, and 65% said they would want to join
+a four-day pilot if offered, citing the participant group's public
+enthusiasm as a factor.
+
+HR's assessment: the wellbeing gains appear real and are the strongest,
+most consistent signal in the pilot data. The Friday-coordination problem
+is the most concrete operational risk and would need a policy answer
+(e.g., which day off, whether it's the same day company-wide) before any
+broader rollout.
