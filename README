@@ -25,7 +25,7 @@ policy compliance agent, a deep research agent, image retrieval/visual QA,
 reasoning-strategy benchmarking, fine-tuning, model optimization, and a
 capstone that ties it all together.
 
-Built one lab at a time, fully working, in order. See experiments/README.md
-for the full list, status, and how to run each one.
+Built one lab at a time, fully working, in order (10 of 12 done so far).
+See experiments/README.md for the full list, status, and how to run each one.
 
 How to run: cd experiments && pip install -r requirements.txt && python 01_text_to_sql/main.py

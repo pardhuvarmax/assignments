@@ -23,7 +23,10 @@ API access.
 `gemini-2.5-flash` at **20 requests/day**. Chained/agentic labs (3, 4, and
 especially 5+) can burn through that in one or two runs — if you see
 `[offline-mock reply to: ...]` output mid-run, that's the fallback kicking
-in, not a bug.
+in, not a bug. Experiments 10 and 11 are the exception — they fine-tune/
+optimize a small local model with `torch`/`transformers` and never call
+Gemini at all, so they're unaffected by the quota (but do need `pip
+install torch transformers`, which `requirements.txt` now includes).
 
 ## Status
 
@@ -38,7 +41,7 @@ in, not a bug.
 | 7 | Deep Research Agent Workflow | [`07_deep_research_agent`](07_deep_research_agent) | ✅ Done |
 | 8 | Image Retrieval / Visual QA | [`08_visual_qa`](08_visual_qa) | ✅ Done |
 | 9 | Reasoning Model Benchmarking | [`09_reasoning_benchmark`](09_reasoning_benchmark) | ✅ Done |
-| 10 | Fine-Tuning for Domain Adaptation | `10_fine_tuning` | ⏳ Planned |
+| 10 | Fine-Tuning for Domain Adaptation | [`10_fine_tuning`](10_fine_tuning) | ✅ Done |
 | 11 | Model Optimization Experiment | `11_model_optimization` | ⏳ Planned |
 | 12 | Mini Project (Capstone) | `12_capstone` | ⏳ Planned |
 
@@ -63,8 +66,9 @@ in, not a bug.
    images plus question answering about a selected image.
 9. **Reasoning Model Benchmarking** — same problem set run under different
    prompting strategies (direct, CoT, self-consistency), scored side by side.
-10. **Fine-Tuning for Domain Adaptation** — LoRA fine-tune of a small open
-    model on a narrow domain, evaluated before/after.
+10. **Fine-Tuning for Domain Adaptation** — full-parameter fine-tune of a
+    small open model (distilgpt2, CPU) on a narrow domain, evaluated
+    before/after with perplexity.
 11. **Model Optimization** — quantize (or distill) a model and compare
     size/latency/quality trade-offs against the baseline.
 12. **Mini Project (Capstone)** — combines retrieval, tools, and multiple

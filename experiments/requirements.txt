@@ -1,3 +1,10 @@
 google-generativeai>=0.8.0
 python-dotenv>=1.0.0
 Pillow>=10.0.0
+
+# experiments 10-11 only (local fine-tuning / model optimization, CPU):
+# torch is large -- install the CPU wheel explicitly if the default index
+# tries to pull a CUDA build:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0.0
+transformers>=4.40.0
