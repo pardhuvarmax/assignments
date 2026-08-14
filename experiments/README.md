@@ -37,7 +37,7 @@ in, not a bug.
 | 6 | Policy Compliance Agent | [`06_policy_compliance_agent`](06_policy_compliance_agent) | ✅ Done |
 | 7 | Deep Research Agent Workflow | [`07_deep_research_agent`](07_deep_research_agent) | ✅ Done |
 | 8 | Image Retrieval / Visual QA | [`08_visual_qa`](08_visual_qa) | ✅ Done |
-| 9 | Reasoning Model Benchmarking | `09_reasoning_benchmark` | ⏳ Planned |
+| 9 | Reasoning Model Benchmarking | [`09_reasoning_benchmark`](09_reasoning_benchmark) | ✅ Done |
 | 10 | Fine-Tuning for Domain Adaptation | `10_fine_tuning` | ⏳ Planned |
 | 11 | Model Optimization Experiment | `11_model_optimization` | ⏳ Planned |
 | 12 | Mini Project (Capstone) | `12_capstone` | ⏳ Planned |
